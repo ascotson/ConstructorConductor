@@ -17,7 +17,7 @@ var users = [];
 
 
 //Now create and push into your users array 3 separate instances of User using the data from above in that
-//exact order
+//exact order 
 
 users.push(new User("Tyler", "tylermcginnis33@gmail.com", "iLoveJS"));
 users.push(new User("Cahlan", "cahlan@devmounta.in", "iLoveHashtags"));
